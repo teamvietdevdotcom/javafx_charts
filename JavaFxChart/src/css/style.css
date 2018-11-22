@@ -1,0 +1,25 @@
+.default-color0.chart-pie { -fx-pie-color: #7fff00; }
+.default-color1.chart-pie { -fx-pie-color: #ffff00; }
+.default-color2.chart-pie { -fx-pie-color: #ff0000; }
+.default-color3.chart-pie { -fx-pie-color: #7fff00; }
+.default-color4.chart-pie { -fx-pie-color: #ffff00; }
+.default-color5.chart-pie { -fx-pie-color: #ff0000; }
+.default-color6.chart-pie { -fx-pie-color: deepskyblue; }
+.default-color7.chart-pie { -fx-pie-color: cyan; }
+.default-color8.chart-pie { -fx-pie-color: steelblue; }
+.default-color9.chart-pie { -fx-pie-color: teal; }
+.default-color10.chart-pie { -fx-pie-color: royalblue; }
+
+.chart-pie-label-line {
+    -fx-stroke: #8b4513;
+    -fx-fill: #8b4513;
+}
+
+.chart-pie-label {
+    -fx-fill: #8b4513;
+    -fx-font-size: 1em;
+} 
+.chart-legend {
+    -fx-background-color:  #fafad2;
+    -fx-stroke: #daa520;
+}
